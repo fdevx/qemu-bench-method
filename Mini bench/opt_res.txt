@@ -1,0 +1,32 @@
+O3:
+Native:
+    Test runtime 222.518516
+    Set runtime 222.518540
+Native + tso:
+    Test runtime 353.464647
+    Set runtime 353.464668
+Native + sw fences:
+    Set runtime 271.559517
+    Test runtime 271.559500
+    
+O2:
+Native:
+    Test runtime 222.718619
+    Set runtime 222.718639
+Native + tso:
+    Test runtime 353.488878
+    Set runtime 353.488898
+Native + sw fences:
+    Set runtime 271.498441
+    Test runtime 271.498420
+    
+O1:
+Native:
+    Set runtime 222.943899
+    Test runtime 222.943882
+Native + tso:
+    Test runtime 352.886972
+    Set runtime 352.886997
+Native + sw fences:
+    Set runtime 271.961387
+    Test runtime 271.961370
